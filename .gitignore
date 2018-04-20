@@ -3,3 +3,14 @@
 /Library
 /ProjectSettings
 /Temp
+/.vs/game_taisyou/v15/.suo
+/.vs/game_taisyou/v15/Server/sqlite3/db.lock
+/.vs/game_taisyou/v15/Server/sqlite3/storage.ide
+/Assets/container/Circle.png
+/Assets/container/bullet.prefab
+/Assets/container/player.png
+/Assets/container/stage.prefab
+/Assets/script/cangeColor.cs
+/Assets/script/shotBullet.cs
+/game_taisyou.csproj
+/game_taisyou.sln
