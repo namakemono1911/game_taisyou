@@ -15,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - bullet
   - 
   - 
   - 
@@ -42,4 +42,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: bullet
+    uniqueID: 2858904921
     locked: 0
